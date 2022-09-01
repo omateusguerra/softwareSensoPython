@@ -1,3 +1,9 @@
+Primeiros passos em Python.
+Software com objetivo de realizar um senso em um determinado grupo de pessoas, recebendo: nome, salário e quantidade de filhos.
+Calculando % de pessoads com salário abaixo de R$1.500,00; média salarial e média de filhos.
+Exbibindo nomes e valores dos maiores e menores salários.
+
+
 # softwareSensoPython
 
 quantidadePessoas = 0
